@@ -27,3 +27,6 @@ I'm a **prospective engineering student** who makes what comes to mind. I like s
 ### 🔹 **[TrlRizu/Palm-control]**
 - Cursor control using camera-based hand recognition  
 🔗 https://github.com/TrlRizu/Palm-control
+
+
+![snake gif](https://github.com/TrlRizu/TrlRizu/blob/output/github-snake-dark.svg)
